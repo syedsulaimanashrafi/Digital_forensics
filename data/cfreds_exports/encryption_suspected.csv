@@ -1,0 +1,3 @@
+"Source Name","Source Type",Score,Conclusion,Configuration,Justification,Comment,"File Path"
+oembios.bin,File,"Likely Notable",,,"Suspected encryption due to high entropy (7.999987).","Suspected encryption due to high entropy (7.999987).","/img_4Dell Latitude CPi.E01/vol_vol2/WINDOWS/system32/oembios.bin"
+oembios.bin,File,"Likely Notable",,,"Suspected encryption due to high entropy (7.999987).","Suspected encryption due to high entropy (7.999987).","/img_4Dell Latitude CPi.E01/vol_vol2/WINDOWS/system32/dllcache/oembios.bin"
